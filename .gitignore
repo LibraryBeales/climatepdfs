@@ -1,0 +1,8 @@
+.vscode/
+Include/
+Lib/
+pdfs/
+Scripts/
+share/
+pyenv.cfg
+_pycache_/

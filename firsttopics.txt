@@ -1,0 +1,80 @@
+[(0,
+  '0.021*"sbi" + 0.013*"fccc" + 0.012*"agenda" + 0.011*"session" + '
+  '0.010*"item" + 0.009*"meeting" + 0.008*"parties" + 0.008*"cp" + '
+  '0.007*"group" + 0.007*"implementation"'),
+ (1,
+  '0.017*"parties" + 0.013*"fccc" + 0.013*"cp" + 0.010*"agenda" + 0.009*"sbi" '
+  '+ 0.009*"item" + 0.009*"cop" + 0.009*"report" + 0.008*"meeting" + '
+  '0.008*"decision"'),
+ (2,
+  '0.019*"cp" + 0.017*"fccc" + 0.015*"parties" + 0.012*"agenda" + '
+  '0.010*"report" + 0.009*"decision" + 0.009*"session" + 0.009*"sbi" + '
+  '0.009*"cop" + 0.009*"item"'),
+ (3,
+  '0.013*"parties" + 0.013*"session" + 0.013*"fccc" + 0.013*"sbi" + '
+  '0.010*"meeting" + 0.010*"cp" + 0.009*"agenda" + 0.009*"item" + 0.007*"cop" '
+  '+ 0.007*"decision"'),
+ (4,
+  '0.017*"cp" + 0.016*"parties" + 0.012*"sbi" + 0.011*"fccc" + 0.009*"cop" + '
+  '0.009*"meeting" + 0.008*"climate" + 0.008*"item" + 0.008*"agenda" + '
+  '0.007*"decision"'),
+ (5,
+  '0.015*"cp" + 0.015*"parties" + 0.014*"fccc" + 0.012*"sbsta" + '
+  '0.011*"agenda" + 0.011*"sbi" + 0.010*"meeting" + 0.009*"decision" + '
+  '0.008*"item" + 0.008*"cop"'),
+ (6,
+  '0.012*"fccc" + 0.012*"parties" + 0.012*"cp" + 0.011*"sbi" + 0.009*"session" '
+  '+ 0.008*"agenda" + 0.008*"item" + 0.007*"decision" + 0.007*"meeting" + '
+  '0.007*"report"'),
+ (7,
+  '0.018*"cp" + 0.018*"fccc" + 0.015*"parties" + 0.014*"session" + 0.011*"adp" '
+  '+ 0.009*"item" + 0.009*"meeting" + 0.008*"paragraph" + 0.008*"decision" + '
+  '0.008*"group"'),
+ (8,
+  '0.016*"fccc" + 0.015*"cp" + 0.013*"parties" + 0.011*"session" + 0.011*"sbi" '
+  '+ 0.009*"item" + 0.009*"cop" + 0.009*"adp" + 0.008*"decision" + '
+  '0.008*"meeting"'),
+ (9,
+  '0.020*"parties" + 0.016*"cp" + 0.015*"fccc" + 0.015*"session" + 0.012*"adp" '
+  '+ 0.011*"agenda" + 0.011*"item" + 0.010*"report" + 0.010*"cop" + '
+  '0.010*"meeting"')]
+[(0,
+  '0.021*"sbi" + 0.013*"fccc" + 0.012*"agenda" + 0.011*"session" + '
+  '0.010*"item" + 0.009*"meeting" + 0.008*"parties" + 0.008*"cp" + '
+  '0.007*"group" + 0.007*"implementation"'),
+ (1,
+  '0.017*"parties" + 0.013*"fccc" + 0.013*"cp" + 0.010*"agenda" + 0.009*"sbi" '
+  '+ 0.009*"item" + 0.009*"cop" + 0.009*"report" + 0.008*"meeting" + '
+  '0.008*"decision"'),
+ (2,
+  '0.019*"cp" + 0.017*"fccc" + 0.015*"parties" + 0.012*"agenda" + '
+  '0.010*"report" + 0.009*"decision" + 0.009*"session" + 0.009*"sbi" + '
+  '0.009*"cop" + 0.009*"item"'),
+ (3,
+  '0.013*"parties" + 0.013*"session" + 0.013*"fccc" + 0.013*"sbi" + '
+  '0.010*"meeting" + 0.010*"cp" + 0.009*"agenda" + 0.009*"item" + 0.007*"cop" '
+  '+ 0.007*"decision"'),
+ (4,
+  '0.017*"cp" + 0.016*"parties" + 0.012*"sbi" + 0.011*"fccc" + 0.009*"cop" + '
+  '0.009*"meeting" + 0.008*"climate" + 0.008*"item" + 0.008*"agenda" + '
+  '0.007*"decision"'),
+ (5,
+  '0.015*"cp" + 0.015*"parties" + 0.014*"fccc" + 0.012*"sbsta" + '
+  '0.011*"agenda" + 0.011*"sbi" + 0.010*"meeting" + 0.009*"decision" + '
+  '0.008*"item" + 0.008*"cop"'),
+ (6,
+  '0.012*"fccc" + 0.012*"parties" + 0.012*"cp" + 0.011*"sbi" + 0.009*"session" '
+  '+ 0.008*"agenda" + 0.008*"item" + 0.007*"decision" + 0.007*"meeting" + '
+  '0.007*"report"'),
+ (7,
+  '0.018*"cp" + 0.018*"fccc" + 0.015*"parties" + 0.014*"session" + 0.011*"adp" '
+  '+ 0.009*"item" + 0.009*"meeting" + 0.008*"paragraph" + 0.008*"decision" + '
+  '0.008*"group"'),
+ (8,
+  '0.016*"fccc" + 0.015*"cp" + 0.013*"parties" + 0.011*"session" + 0.011*"sbi" '
+  '+ 0.009*"item" + 0.009*"cop" + 0.009*"adp" + 0.008*"decision" + '
+  '0.008*"meeting"'),
+ (9,
+  '0.020*"parties" + 0.016*"cp" + 0.015*"fccc" + 0.015*"session" + 0.012*"adp" '
+  '+ 0.011*"agenda" + 0.011*"item" + 0.010*"report" + 0.010*"cop" + '
+  '0.010*"meeting"')]
