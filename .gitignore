@@ -6,3 +6,4 @@ Scripts/
 share/
 pyenv.cfg
 _pycache_/
+data/ntlk_data
