@@ -2,8 +2,8 @@ import urllib.request
 from pathlib import Path
 import nltk
 
-filenames = ['texts/02.txt', 'texts/02a.txt', 'texts/02a01.txt','texts/02a02.txt','texts/03.txt','texts/04.txt','texts/04a.txt','texts/05.txt','texts/10.txt','texts/10a.txt','texts/10a01.txt','texts/10a02.txt', 'texts/10a03.txt']
-with open('texts/onefile.txt', 'w', encoding="utf-8") as outfile:
+filenames = ['textfiles/02.txt', 'texts/02a.txt', 'texts/02a01.txt','texts/02a02.txt','texts/03.txt','texts/04.txt','texts/04a.txt','texts/05.txt','texts/10.txt','texts/10a.txt','texts/10a01.txt','texts/10a02.txt', 'texts/10a03.txt']
+with open('docs/textfiles/onefile.txt', 'w', encoding="utf-8") as outfile:
     for fname in filenames:
         with open(fname, encoding="utf-8") as infile:
             for line in infile:
