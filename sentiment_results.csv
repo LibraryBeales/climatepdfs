@@ -1,0 +1,20 @@
+Filename,Positive Score,Negative Score,Neutral Score
+adopts.txt,0.113,0.003,0.884
+african_countries.txt,0.094,0.0,0.906
+annex1_list.txt,0.132,0.011,0.857
+annex2_list.txt,0.089,0.007,0.905
+considers.txt,0.165,0.0,0.835
+decides.txt,0.115,0.008,0.877
+developed_countries.txt,0.121,0.007,0.872
+developing_countries.txt,0.102,0.033,0.865
+encourages.txt,0.21,0.009,0.781
+invites_list.txt,0.131,0.008,0.861
+mandates.txt,0.14,0.01,0.85
+nonannex_list.txt,0.221,0.02,0.759
+persuades.txt,0.0,0.0,0.0
+recommends.txt,0.197,0.01,0.793
+requests.txt,0.116,0.009,0.875
+small_island_developing_states.txt,0.1,0.012,0.888
+stresses.txt,0.166,0.094,0.74
+the_least_developed_countries.txt,0.125,0.006,0.869
+urges.txt,0.195,0.017,0.788
