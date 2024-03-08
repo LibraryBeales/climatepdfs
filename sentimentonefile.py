@@ -6,8 +6,8 @@ from nltk.sentiment.vader import SentimentIntensityAnalyzer
 sid = SentimentIntensityAnalyzer()
 
 # Specify the input and output file paths
-input_file = 'data/urges.txt'
-output_file = 'data/sentiment/urges.csv'
+input_file = 'data/adopts.txt'
+output_file = 'data/sentiment/adopts.csv'
 
 # Open the input file for reading and output file for writing
 with open(input_file, 'r', encoding='utf-8') as infile, open(output_file, 'w', newline='', encoding='utf-8') as outfile:
@@ -15,7 +15,7 @@ with open(input_file, 'r', encoding='utf-8') as infile, open(output_file, 'w', n
     writer = csv.writer(outfile)
     
     # Write the header row to the output CSV file
-    writer.writerow(['Line', 'Compound Sentiment Score', 'Positive Sentiment Score', 'Negative Sentiment Score', 'Neutral Sentiment Score'])
+    writer.writerow(['Compound Sentiment Score', 'Positive Sentiment Score', 'Negative Sentiment Score', 'Neutral Sentiment Score', 'Line'])
     
     # Iterate over each line in the input file
     for line in infile:
